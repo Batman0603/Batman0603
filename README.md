@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Languages & Frameworks
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,7 +30,7 @@
 </p>
 
 ### 💾 Databases & Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase" />
 </p>
@@ -42,14 +42,14 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.tenor.com/1W8ok4oQJh8AAAAC/searching.gif" width="120" alt="ExploreEase" /><br/>
+      <img src="https://media.giphy.com/media/3ohzdUIsjGdh8R8pUI/giphy.gif" width="120" alt="ExploreEase Pulse" /><br/>
       <b>ExploreEase</b><br/>
       <sub>Recommends nearby shows, restaurants & more</sub>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/ifBvlA3m32lA5t2H6A/giphy.gif" width="120" alt="Lie Detector" /><br/>
+      <img src="https://media.tenor.com/UPH4my6dPv0AAAAC/lie-meme-memes.gif" width="120" alt="Lie Detector Meme" /><br/>
       <b>Lie Detector</b><br/>
-      <sub>ML + NLP to detect deception via text</sub>
+      <sub>ML + NLP to catch lies (meme style 🤣)</sub>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="File Handle" /><br/>
@@ -57,7 +57,7 @@
       <sub>Secure file uploads & categorization</sub>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="120" alt="Chatbot" /><br/>
+      <img src="https://media.tenor.com/zH83ksCy7H0AAAAC/robot-wave.gif" width="120" alt="Chatbot" /><br/>
       <b>Friendly Chatbot</b><br/>
       <sub>LLM + Flask with Bolt AI frontend</sub>
     </td>
