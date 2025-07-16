@@ -42,25 +42,30 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" height="100" /><br/>
-        <b>ExploreEase</b><br/>
-        <sub>Nearby shows, restaurants & more</sub>
+        <b>🌟 ExploreEase</b><br/>
+        <sub>suggests nearby shows, movies, restaurants, local gems (like a Zomato district app)</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" /><br/>
-        <b>Lie Detector</b><br/>
-        <sub>ML + NLP to catch lies 🤥</sub>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="100" /><br/>
+        <b>🛡️ Resume Verification on Blockchain</b><br/>
+        <sub>Ethereum + OCR ML + chatbot to crush fake resumes</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" height="100" /><br/>
-        <b>File Handle</b><br/>
-        <sub>Secure file uploads & manage</sub>
+        <b>📁 File Handle</b><br/>
+        <sub>Django & React app to upload, categorize & manage files securely</sub>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="100" height="100" /><br/>
+        <b>📈 Fast Expression Alpha Models</b><br/>
+        <sub>alpha strategies for top 3000 US stocks using advanced FEL operators</sub>
+      </td>
+      <td align="center" width="20%">
         <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" height="100" /><br/>
-        <b>Friendly Chatbot</b><br/>
-        <sub>LLM + Flask + Bolt AI</sub>
+        <b>🤖 Friendly Chatbot</b><br/>
+        <sub>Bolt AI + Flask with Llama API smarts</sub>
       </td>
     </tr>
   </table>
@@ -70,22 +75,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=radical" alt="GitHub Profile Summary" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
