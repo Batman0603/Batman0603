@@ -54,8 +54,15 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="3D Skyline GIF" width="80%" />
-  <p><strong>My contributions city skyline 🌆 (animated)</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=highcontrast" alt="GitHub streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=github_dark" alt="GitHub summary" />
 </div>
 
 ---
