@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthi Keyan</h1>
+# Hi 👋, I'm Karthi Keyan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+Blockchain+Explorer;Always+building+cool+stuff..." alt="Typing SVG" />
@@ -21,72 +21,85 @@
 
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 💾 Databases & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
 
 ## 🔥 Projects Highlights
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3ohzdUIsjGdh8R8pUI/giphy.gif" width="120" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br/>
-      <b>ExploreEase</b><br/>
-      <sub>Nearby shows, restaurants & more</sub>
-    </td>
-    <td align="center">
-      <img src="https://media.tenor.com/UPH4my6dPv0AAAAC/lie-meme-memes.gif" width="120" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br/>
-      <b>Lie Detector</b><br/>
-      <sub>ML + NLP to catch lies 🤥</sub>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br/>
-      <b>File Handle</b><br/>
-      <sub>Secure file uploads & manage</sub>
-    </td>
-    <td align="center">
-      <img src="https://media.tenor.com/zH83ksCy7H0AAAAC/robot-wave.gif" width="120" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br/>
-      <b>Friendly Chatbot</b><br/>
-      <sub>LLM + Flask + Bolt AI</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/3ohzdUIsjGdh8R8pUI/giphy.gif" width="100" height="100" /><br/>
+        <b>ExploreEase</b><br/>
+        <sub>Nearby shows, restaurants & more</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" /><br/>
+        <b>Lie Detector</b><br/>
+        <sub>ML + NLP to catch lies 🤥</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" height="100" /><br/>
+        <b>File Handle</b><br/>
+        <sub>Secure file uploads & manage</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" height="100" /><br/>
+        <b>Friendly Chatbot</b><br/>
+        <sub>LLM + Flask + Bolt AI</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:karthikeyan060311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Batman0603"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/dany_koker_11kr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:karthikeyan060311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Batman0603">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/dany_koker_11kr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
@@ -94,5 +107,5 @@
 <p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
