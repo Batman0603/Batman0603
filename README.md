@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthi Keyan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+Blockchain+Explorer;Always+building+cool+stuff..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+Blockchain+Explorer;Always+building+cool+stuff..." alt="Typing SVG" />
 </div>
 
 ---
@@ -37,13 +37,23 @@
 
 ---
 
-## 🔥 Projects Highlights
+## 🚀 Projects Highlights
 
 - 🗺 **ExploreEase** — suggests nearby shows, movies, restaurants, local gems (like a Zomato district app).
 - 📝 **Resume Verification on Blockchain** — Ethereum + OCR ML + chatbot to crush fake resumes.
 - 📂 **File Handle** — Django & React app to upload, categorize & manage files securely.
 - 📈 **Fast Expression Alpha Models** — alpha strategies for top 3000 US stocks using advanced FEL operators.
 - 🤖 **Friendly Chatbot** — Bolt AI + Flask with Llama API smarts.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+</div>
 
 ---
 
@@ -61,5 +71,5 @@
 <p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="3D Skyline GIF" width="80%" />
+  <img src="https://github.com/Batman0603/Batman0603/raw/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width:100%;" />
 </div>
