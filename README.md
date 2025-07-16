@@ -94,11 +94,11 @@
 
 ---
 
-## 🌐 Let's Connect
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:karthikeyan060311@gmail.com">
