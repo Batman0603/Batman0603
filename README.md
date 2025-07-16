@@ -37,39 +37,32 @@
 
 ---
 
-## 🔥 Project Highlights
+## 🔥 Projects Highlights
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/3ohzdUIsjGdh8R8pUI/giphy.gif" width="120" alt="ExploreEase Pulse" /><br/>
+      <img src="https://media.giphy.com/media/3ohzdUIsjGdh8R8pUI/giphy.gif" width="120" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br/>
       <b>ExploreEase</b><br/>
-      <sub>Recommends nearby shows, restaurants & more</sub>
+      <sub>Nearby shows, restaurants & more</sub>
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/UPH4my6dPv0AAAAC/lie-meme-memes.gif" width="120" alt="Lie Detector Meme" /><br/>
+      <img src="https://media.tenor.com/UPH4my6dPv0AAAAC/lie-meme-memes.gif" width="120" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br/>
       <b>Lie Detector</b><br/>
-      <sub>ML + NLP to catch lies (meme style 🤣)</sub>
+      <sub>ML + NLP to catch lies 🤥</sub>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="File Handle" /><br/>
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br/>
       <b>File Handle</b><br/>
-      <sub>Secure file uploads & categorization</sub>
+      <sub>Secure file uploads & manage</sub>
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/zH83ksCy7H0AAAAC/robot-wave.gif" width="120" alt="Chatbot" /><br/>
+      <img src="https://media.tenor.com/zH83ksCy7H0AAAAC/robot-wave.gif" width="120" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br/>
       <b>Friendly Chatbot</b><br/>
-      <sub>LLM + Flask with Bolt AI frontend</sub>
+      <sub>LLM + Flask + Bolt AI</sub>
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="3D Skyline GIF" width="80%" />
-  <p><strong>My contributions city skyline 🌆 (animated)</strong></p>
-</div>
 
 ---
 
