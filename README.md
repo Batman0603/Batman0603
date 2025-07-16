@@ -48,14 +48,18 @@
 ---
 
 <p align="center">
+  <img src="https://github.com/Batman0603/Batman0603/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="github stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=highcontrast" alt="streak stats" />
 </p>
-
----
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=github_dark" />
