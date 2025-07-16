@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karthi Keyan</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+Blockchain+Explorer;Always+building+cool+stuff..." alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+Blockchain+Explorer;Always+building+cool+stuff..." alt="Typing SVG" />
+</div>
 
 ---
 
@@ -47,23 +47,23 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/Batman0603/Batman0603/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="github stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=highcontrast" alt="streak stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=highcontrast" alt="GitHub streak stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=github_dark" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=github_dark" alt="GitHub summary" />
+</div>
 
 ---
 
@@ -79,7 +79,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603" />
+  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603 profile views" />
 </p>
 
 <p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
