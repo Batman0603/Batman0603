@@ -47,37 +47,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Batman0603/Batman0603/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-## 🌆 GitHub Skyline 3D
-
-<div align="center">
-  <a href="https://skyline.github.com/Batman0603/2025">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="3D Skyline" width="80%" />
-  </a>
-  <p>Click to see my <strong>3D GitHub Skyline</strong> for 2025 🚀</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=highcontrast" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=github_dark" alt="GitHub summary" />
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -89,8 +58,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603 profile views" />
-</p>
-
 <p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="3D Skyline GIF" width="80%" />
+</div>
