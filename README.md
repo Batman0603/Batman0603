@@ -65,10 +65,12 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Contribution Grid Snake](https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake.svg)
+<p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
 
 ---
 
-<p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
+## 🌇 My 3D GitHub Skyline
+
+<div align="center">
+  <img src="https://github.com/Batman0603/Batman0603/raw/output/github-skyline.gif" alt="3D Skyline" style="max-width:100%;"/>
+</div>
