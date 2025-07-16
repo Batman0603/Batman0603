@@ -39,21 +39,38 @@
 
 ## 🚀 Projects Highlights
 
-- 🗺 **ExploreEase** — suggests nearby shows, movies, restaurants, local gems (like a Zomato district app).
-- 📝 **Resume Verification on Blockchain** — Ethereum + OCR ML + chatbot to crush fake resumes.
-- 📂 **File Handle** — Django & React app to upload, categorize & manage files securely.
-- 📈 **Fast Expression Alpha Models** — alpha strategies for top 3000 US stocks using advanced FEL operators.
-- 🤖 **Friendly Chatbot** — Bolt AI + Flask with Llama API smarts.
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/96/000000/compass.png" width="80"/></td>
+    <td>
+      <b>ExploreEase</b> — suggests nearby shows, movies, restaurants, local gems (like a Zomato district app).
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" width="80"/></td>
+    <td>
+      <b>Resume Verification on Blockchain</b> — Ethereum + OCR ML + chatbot to crush fake resumes.
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/external-flat-juicy-fish/96/000000/external-folder-web-design-and-development-flat-flat-juicy-fish.png" width="80"/></td>
+    <td>
+      <b>File Handle</b> — Django & React app to upload, categorize & manage files securely.
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/external-flaticons-flat-flat/96/000000/external-stock-stock-market-flaticons-flat-flat-2.png" width="80"/></td>
+    <td>
+      <b>Fast Expression Alpha Models</b> — alpha strategies for top 3000 US stocks using advanced FEL operators.
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/96/000000/external-chatbot-marketing-smashingstocks-flat-smashing-stocks.png" width="80"/></td>
+    <td>
+      <b>Friendly Chatbot</b> — Bolt AI + Flask with Llama API smarts.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -72,4 +89,8 @@
 
 <div align="center">
   <img src="https://github.com/Batman0603/Batman0603/raw/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width:100%;" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Batman0603/Batman0603/raw/output/github-skyline.svg" alt="3D GitHub Skyline" style="max-width:100%; margin-top:20px;" />
 </div>
