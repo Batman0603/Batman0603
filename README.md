@@ -61,6 +61,11 @@
       <b>Alpha Models</b><br/>
       <sub>Quant strategies for top 3000 US stocks</sub>
     </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="120" alt="Chatbot" /><br/>
+      <b>Friendly Chatbot</b><br/>
+      <sub>LLM + Flask with Bolt AI frontend</sub>
+    </td>
   </tr>
 </table>
 
@@ -81,14 +86,6 @@
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603 profile views" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -99,5 +96,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603 profile views" />
+</p>
 
 <p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
