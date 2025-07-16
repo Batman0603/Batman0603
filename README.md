@@ -31,15 +31,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
+</p>
 
 ---
 
@@ -71,6 +66,6 @@
 
 ## 🌇 My 3D GitHub Skyline
 
-<div align="center">
-  <img src="https://github.com/Batman0603/Batman0603/raw/output/github-skyline.gif" alt="3D Skyline" style="max-width:100%;"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/main/skyline.gif" alt="3D GitHub Skyline" width="600"/>
+</p>
