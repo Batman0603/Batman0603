@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karthi Keyan
+<h1 align="center">Hi 👋, I'm Karthi Keyan</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+Blockchain+Explorer;Always+building+cool+stuff..." alt="Typing SVG" />
@@ -43,7 +43,7 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/3ohzdUIsjGdh8R8pUI/giphy.gif" width="100" height="100" /><br/>
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" height="100" /><br/>
         <b>ExploreEase</b><br/>
         <sub>Nearby shows, restaurants & more</sub>
       </td>
@@ -81,6 +81,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 ---
