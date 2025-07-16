@@ -20,17 +20,10 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -40,11 +33,11 @@
 
 <div align="center">
   
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical" alt="GitHub Streak" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
@@ -52,12 +45,12 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **ExploreEase** | Nearby shows, movies, restaurants suggestion app | React, Django, Google Maps API |
-| **File Handle** | File management web application | Django, React, AWS S3 |
-| **Alpha Models** | Quantitative trading strategies | Python, Pandas, NumPy |
-| **Friendly Chatbot** | AI-powered conversational assistant | Flask, Llama, Bolt AI |
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| **ExploreEase** | Local recommendations app | React, Django |
+| **File Handle** | File management system | Django, AWS |
+| **Alpha Models** | Trading strategies | Python |
+| **Chatbot** | AI assistant | Flask, LLM |
 
 ---
 
@@ -72,9 +65,9 @@
 
 ---
 
-## 🐍 GitHub Snake Animation
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Batman0603/Batman0603/blob/output/github-contribution-grid-snake.svg)
+![Contribution Grid Snake](https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake.svg)
 
 ---
 
