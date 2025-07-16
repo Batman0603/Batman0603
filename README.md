@@ -37,19 +37,32 @@
 
 ---
 
-## 🔥 Projects Highlights
+## 🔥 Project Highlights
 
-- 🗺 **ExploreEase** — suggests nearby shows, movies, restaurants, local gems (like a Zomato district app).
-- 📝 **Resume Verification on Blockchain** — Ethereum + OCR ML + chatbot to crush fake resumes.
-- 📂 **File Handle** — Django & React app to upload, categorize & manage files securely.
-- 📈 **Fast Expression Alpha Models** — alpha strategies for top 3000 US stocks using advanced FEL operators.
-- 🤖 **Friendly Chatbot** — Bolt AI + Flask with Llama API smarts.
-
----
-
-<div align="center">
-  <img src="https://github.com/Batman0603/Batman0603/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/26gsgIqfB2Ikgz66Q/giphy.gif" width="120" alt="ExploreEase" /><br/>
+      <b>ExploreEase</b><br/>
+      <sub>Recommends nearby shows, restaurants & more</sub>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="120" alt="Resume Blockchain" /><br/>
+      <b>Resume Verification</b><br/>
+      <sub>Blockchain + ML to crush fake resumes</sub>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="File Handle" /><br/>
+      <b>File Handle</b><br/>
+      <sub>Secure file uploads & categorization</sub>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/xT1Ra4hHz8mE9uXjzi/giphy.gif" width="120" alt="Alpha Models" /><br/>
+      <b>Alpha Models</b><br/>
+      <sub>Quant strategies for top 3000 US stocks</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,6 +70,22 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="3D Skyline GIF" width="80%" />
   <p><strong>My contributions city skyline 🌆 (animated)</strong></p>
 </div>
+
+---
+
+## 📊 GitHub Streak & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603 profile views" />
+</p>
 
 ---
 
@@ -70,9 +99,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603 profile views" />
-</p>
 
 <p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
