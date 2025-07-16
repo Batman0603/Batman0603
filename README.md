@@ -42,24 +42,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/26gsgIqfB2Ikgz66Q/giphy.gif" width="120" alt="ExploreEase" /><br/>
+      <img src="https://media.tenor.com/1W8ok4oQJh8AAAAC/searching.gif" width="120" alt="ExploreEase" /><br/>
       <b>ExploreEase</b><br/>
       <sub>Recommends nearby shows, restaurants & more</sub>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="120" alt="Resume Blockchain" /><br/>
-      <b>Resume Verification</b><br/>
-      <sub>Blockchain + ML to crush fake resumes</sub>
+      <img src="https://media.giphy.com/media/ifBvlA3m32lA5t2H6A/giphy.gif" width="120" alt="Lie Detector" /><br/>
+      <b>Lie Detector</b><br/>
+      <sub>ML + NLP to detect deception via text</sub>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="File Handle" /><br/>
       <b>File Handle</b><br/>
       <sub>Secure file uploads & categorization</sub>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/xT1Ra4hHz8mE9uXjzi/giphy.gif" width="120" alt="Alpha Models" /><br/>
-      <b>Alpha Models</b><br/>
-      <sub>Quant strategies for top 3000 US stocks</sub>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="120" alt="Chatbot" /><br/>
@@ -78,10 +73,16 @@
 
 ---
 
-## 📊 GitHub Streak & Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -97,8 +98,8 @@
 
 ---
 
+<p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Batman0603 profile views" />
 </p>
-
-<p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
