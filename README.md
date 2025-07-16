@@ -42,30 +42,37 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" width="33%">
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" height="100" /><br/>
         <b>🌟 ExploreEase</b><br/>
         <sub>suggests nearby shows, movies, restaurants, local gems (like a Zomato district app)</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="100" /><br/>
-        <b>🛡️ Resume Verification on Blockchain</b><br/>
-        <sub>Ethereum + OCR ML + chatbot to crush fake resumes</sub>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" /><br/>
+        <b>🕵️ Lie Detector Model</b><br/>
+        <sub>Using BERT embeddings and NLP to detect deception in text with advanced ML algorithms</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="33%">
         <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" height="100" /><br/>
         <b>📁 File Handle</b><br/>
         <sub>Django & React app to upload, categorize & manage files securely</sub>
       </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="100" height="100" /><br/>
-        <b>📈 Fast Expression Alpha Models</b><br/>
-        <sub>alpha strategies for top 3000 US stocks using advanced FEL operators</sub>
-      </td>
-      <td align="center" width="20%">
+    </tr>
+    <tr>
+      <td align="center" width="33%">
         <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" height="100" /><br/>
         <b>🤖 Friendly Chatbot</b><br/>
         <sub>Bolt AI + Flask with Llama API smarts</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="100" /><br/>
+        <b>💼 More Projects</b><br/>
+        <sub>Check out my GitHub for more exciting projects!</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="100" height="100" /><br/>
+        <b>🚀 Coming Soon</b><br/>
+        <sub>New innovations in AI & ML are on the way!</sub>
       </td>
     </tr>
   </table>
@@ -88,6 +95,10 @@
 ---
 
 ## 🌐 Let's Connect
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
   <a href="mailto:karthikeyan060311@gmail.com">
