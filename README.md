@@ -10,7 +10,7 @@
 
 - 🎓 AI & DS undergrad passionate about building smart solutions with clean code.  
 - 🤖 Love working on ML projects from NLP to lie detection models.  
-- 🌐 Building sleek full-stack web apps with React, Django, FastAPI & more.  
+- 🌐 Building sleek full-stack web apps with React, Django, FastAPI , Flask & more.  
 - 🔗 Exploring blockchain for verification & smart contracts.  
 - ⚡ Hackathons fuel my creativity — rapid prototyping & MVPs are my jam.  
 - 🔍 Currently diving into RAG pipelines, system design, and quant financial models.
