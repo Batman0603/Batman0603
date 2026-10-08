@@ -1,218 +1,150 @@
-<h1 align="center">Hi 👋, I'm Karthi Keyan</h1>
-
-<p align="center">
-  <b>AI & Data Science Student • Full-Stack Developer • Linux & Systems Enthusiast</b>
-</p>
+<!-- ======================= HERO ======================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Linux+%26+Systems+Enthusiast;Java+%7C+Python+%7C+C;Cloud+%26+DevOps+Explorer;Building+Systems%2C+Not+Just+Apps..." alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Karthi%20Keyan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20%7C%20Linux%20%7C%20Cloud&descAlignY=58&descSize=18" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Linux+%26+Systems+Enthusiast;Java+%7C+Python+%7C+C;Cloud+%26+DevOps+Explorer;Building+Systems%2C+Not+Just+Applications..." alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/Batman0603">
+<img src="https://img.shields.io/github/followers/Batman0603?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717"/>
+</a>
+&nbsp;
+<a href="https://github.com/Batman0603?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-Explore-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:karthikeyan060311@gmail.com">
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK-00C853?style=for-the-badge&logo=maildotru&logoColor=white"/>
+</a>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/Batman0603">
-    <img src="https://img.shields.io/github/followers/Batman0603?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Batman0603">
-    <img src="https://img.shields.io/github/stars/Batman0603?label=Stars&style=for-the-badge" />
-  </a>
-</p>
+---
+
+<!-- ======================= TERMINAL ======================= -->
+
+<h2>⚡ whoami</h2>
+
+```text
+┌──(karthi㉿linux)-[~/engineering]
+└─$ ./karthi --profile
+
+[+] AI & Data Science Undergraduate
+[+] Full-Stack Developer
+[+] Linux & Systems Enthusiast
+[+] Cloud / DevOps Explorer
+[+] Researcher
+[+] Open Source & Technology Enthusiast
+
+> Building software.
+> Understanding systems.
+> Breaking abstractions.
+> Learning how everything works underneath.
+```
 
 ---
 
-## 🚀 About Me
+<!-- ======================= ABOUT ======================= -->
 
-I'm an **AI & Data Science undergraduate** who enjoys building software across multiple layers — from machine learning models and APIs to Linux systems and cloud infrastructure.
+<h2>🧑‍💻 About Me</h2>
 
-* 🎓 AI & Data Science student with a strong foundation in **Java, Python, C, SQL & JavaScript**
-* 💻 Building full-stack applications using **React, Django, FastAPI & Flask**
-* 🐧 Linux enthusiast interested in **operating systems, networking and low-level systems**
-* ☁️ Exploring **AWS, Docker/Podman, Terraform and DevOps**
-* 🤖 Working with **Machine Learning, NLP, RAG pipelines and AI applications**
-* 🔬 Interested in **systems research, performance optimization and ML-assisted systems**
-* 🔗 Exploring **Blockchain, distributed systems and smart-contract technologies**
-* 🧩 Interested in **software architecture, system design, SOLID principles and design patterns**
-* 🏆 SIH team lead, paper presentation lead and active participant in technical communities
-* 🌱 Currently building projects that combine **AI, systems, networking and software engineering**
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> **I enjoy understanding how things work underneath the abstraction — and then building something on top of it.**
+I'm an **AI & Data Science undergraduate** who enjoys working across different layers of technology — from **machine learning models and APIs to Linux kernels and cloud infrastructure**.
 
----
+* 🎓 AI & Data Science undergraduate
+* 💻 Full-stack development with **React, Django, FastAPI & Flask**
+* ☕ Strong interest in **Java & software engineering**
+* 🐍 Python enthusiast
+* 🐧 Linux & systems enthusiast
+* ☁️ Exploring **AWS, Docker, Podman & Terraform**
+* 🤖 Working with **ML, NLP & RAG systems**
+* 🔬 Interested in **Linux kernel research & systems optimization**
+* 🌐 Exploring **networking & distributed systems**
+* 🔗 Exploring **blockchain technologies**
+* 🧩 Learning **system design, SOLID & design patterns**
 
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🌐 Frontend & Full Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REST%20APIs-02569B?style=for-the-badge" />
-</p>
-
-### 🧠 AI / ML / Data
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NLP-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-RAG-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Data%20Science-3776AB?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### ☁️ Cloud, DevOps & Infrastructure
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🐧 Systems & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/-QEMU-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GDB-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<br clear="right"/>
 
 ---
 
-# 🔥 Featured Projects
+<!-- ======================= TECH MARQUEE ======================= -->
+
+<h2 align="center">🛠️ Technologies I Work With</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,react,django,fastapi,flask,mysql,sqlite,aws,docker,terraform,linux,git,github,vscode&perline=9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-Learning-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-🐧-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+<!-- ======================= WHAT I BUILD ======================= -->
+
+<h2>🧠 What I Like Building</h2>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-## 🛡️ AegisOS
+### 🤖 AI
 
-**A hobby operating system targeting x86-64**
-
-AegisOS explores a functionally separated kernel architecture where independent kernel domains communicate through **direct Inter-Kernel Communication (IKC)**.
-
-**Focus:**
-
-* x86-64 architecture
-* C + x86-64 Assembly
-* QEMU-based development
-* Bootloader & kernel initialization
-* GDT, paging & CPU initialization
-* Process & Memory kernel domains
-* Inter-Kernel Communication
-* GDB kernel debugging
-
-> Building an OS to understand what happens beneath the applications we normally write.
+ML
+NLP
+RAG
+Intelligent Systems
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-## 🌐 NetSonic
+### 🌐 Web
 
-**See the network. Hear the network.**
-
-A network monitoring and sonification platform that discovers devices on a local network and transforms network activity into audio.
-
-**Focus:**
-
-* FastAPI backend
-* React + TypeScript frontend
-* Network discovery
-* Device & IP/MAC information
-* Network topology visualization
-* Packet/network activity
-* Audio sonification
-* SQLite
-* Cytoscape-based topology visualization
-
-> Turning network activity into something you can see — and hear.
+React
+REST APIs
+Django
+FastAPI
 
 </td>
 
-</tr>
+<td align="center" width="25%">
 
-<tr>
+### 🐧 Systems
 
-<td width="50%" valign="top">
-
-## 🎟️ EventEase
-
-**Full-stack event management platform**
-
-Developed during my Presidio internship as a full-stack application supporting multiple user roles and event workflows.
-
-**Stack:**
-
-* React
-* Flask
-* MySQL
-* JWT Authentication
-* RBAC
-* Docker
-* AWS
-* Terraform
-* GenAI / RAG exploration
-
-**Features:**
-
-* Student / Club Admin / Admin roles
-* Event CRUD
-* Event registration
-* Feedback
-* Administrative dashboard
+Linux
+Networking
+Operating Systems
+Kernel Development
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-## 🧠 NUMA-PRED
+### ☁️ Cloud
 
-**ML-Assisted Proactive Memory Placement**
-
-Research project exploring lightweight machine learning techniques for proactive memory placement in the Linux kernel.
-
-**Focus:**
-
-* Linux kernel
-* NUMA architecture
-* Memory placement
-* Machine learning
-* System performance
-* Kernel-level optimization
-
-Presented as a research paper at a technical conference.
+AWS
+Docker
+Terraform
+DevOps
 
 </td>
 
@@ -221,160 +153,364 @@ Presented as a research paper at a technical conference.
 
 ---
 
-# 🔬 Research & Technical Work
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+<h2 align="center">🔥 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ AegisOS</h3>
+
+<p><b>x86-64 Hobby Operating System</b></p>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=flat-square"/>
+
+<br><br>
+
+A systems project exploring a functionally separated kernel architecture with independent domains communicating through **Inter-Kernel Communication (IKC)**.
+
+```text
+Architecture
+├── Process Kernel
+├── Memory Kernel
+├── Network Kernel
+└── Storage Kernel
+```
+
+<b>Stack</b>
+
+`C` `x86-64 Assembly` `QEMU` `GDB` `Linux`
+
+<br>
+
+<a href="https://github.com/kumaraguru911/aegisos">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌐 NetSonic</h3>
+
+<p><b>See the Network. Hear the Network.</b></p>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00C853?style=flat-square"/>
+
+<br><br>
+
+A network monitoring and sonification platform that discovers devices and converts network activity into an interactive visual and audio experience.
+
+```text
+Network
+   ↓
+Discovery
+   ↓
+Topology
+   ↓
+Traffic
+   ↓
+Sonification 🔊
+```
+
+<b>Stack</b>
+
+`FastAPI` `React` `TypeScript` `SQLite` `Cytoscape`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 NUMA-PRED</h3>
+
+<p><b>ML-Assisted Proactive Memory Placement</b></p>
+
+Research exploring lightweight machine learning techniques for proactive memory placement in the Linux kernel.
+
+```text
+Application
+     ↓
+ML Prediction
+     ↓
+Memory Placement
+     ↓
+NUMA Node
+     ↓
+Performance
+```
+
+<b>Focus</b>
+
+`Linux Kernel` `NUMA` `Machine Learning` `Systems Performance`
+
+<br><br>
+
+🏆 Presented as technical research work
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎟️ EventEase</h3>
+
+<p><b>Enterprise Event Management Platform</b></p>
+
+Built during my full-stack internship.
+
+<b>Features</b>
+
+* 🔐 JWT Authentication
+* 👥 Role-Based Access Control
+* 📅 Event Management
+* 📝 Registration
+* ⭐ Feedback
+* 📊 Admin Dashboard
+
+<b>Stack</b>
+
+`React` `Flask` `MySQL` `JWT` `Docker` `AWS` `Terraform`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<!-- ======================= EXPERIENCE ======================= -->
+
+<h2>💼 Experience</h2>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3>🔵 Presidio</h3>
+
+<b>Full Stack Intern</b>
+
+<br><br>
+
+Worked on full-stack application development and enterprise technologies.
+
+<br><br>
+
+`React` `Flask` `MySQL`
+`JWT` `RBAC` `Docker`
+`AWS` `Terraform` `GenAI`
+
+</td>
+
+<td width="50%">
+
+<h3>🟣 Patterns Cognitive</h3>
+
+<b>Web Developer Intern</b>
+
+<br><br>
+
+Developed a full-stack file management application focused on secure upload, categorization and management workflows.
+
+<br><br>
+
+`React` `Django` `MySQL`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ======================= RESEARCH ======================= -->
+
+<h2 align="center">🔬 Research & Technical Work</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2B%20Linux%20Kernel-Research-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NUMA-PRED-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Optimization-Research-00897B?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 ### 🧠 AI in the Linux Kernel
 
-Research and paper presentation work exploring how **Artificial Intelligence can be integrated with Linux kernel-level systems**.
+Exploring the intersection of **Artificial Intelligence and operating-system internals**.
 
 🏆 **First Prize — Innovators Day**
 
-Also presented related work through technical paper presentation events.
+</td>
 
----
+<td width="50%" align="center">
 
 ### ⚡ NUMA-PRED
 
 **Lightweight ML-Assisted Proactive Memory Placement in the Linux Kernel**
 
-Exploring how machine learning can assist NUMA-aware memory placement and improve system-level performance.
+Exploring ML-assisted system optimization.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 💼 Industry Experience
+<!-- ======================= ACHIEVEMENTS ======================= -->
 
-### 🔹 Presidio — Full Stack Intern
-
-Worked on full-stack development and enterprise application technologies.
-
-**Technologies explored:**
-
-`React` `Flask` `MySQL` `JWT` `RBAC` `Docker` `AWS` `Terraform` `GenAI` `RAG`
-
-Built **EventEase**, an event management platform with role-based access control, event management, registrations, feedback and administrative features.
-
----
-
-### 🔹 Patterns Cognitive — Web Developer Intern
-
-Worked on a full-stack file management application using:
-
-`React` `Django` `MySQL`
-
-Focused on file upload, categorization and management workflows.
-
----
-
-# 🏆 Achievements & Activities
-
-* 🥇 **First Prize — Innovators Day** for *AI in the Linux Kernel*
-* 👨‍💻 **SIH 2024 Team Lead** — worked on a farmer-focused application
-* 🎤 **E-Cube Paper Presentation Lead**
-* 📑 **ICCET Journal Team** — research on AI in the Linux Kernel
-* 🧠 **NUMA-PRED** research project
-* 🌐 Active in developer and technical communities
-* 🐧 Linux enthusiast
-* 📚 NPTEL — 76%
-* 🎯 Placement Coordinator
-* ⚡ Euphoria / n8nate Organizer Team
-* 🔧 FlutterFlow Developer Community contributor
-
----
-
-# 📚 Currently Exploring
-
-```text
-AI / ML
- ├── NLP
- ├── RAG Systems
- ├── ML-assisted Systems
- └── AI Applications
-
-Software Engineering
- ├── System Design
- ├── SOLID Principles
- ├── Design Patterns
- ├── REST APIs
- └── Distributed Systems
-
-Systems
- ├── Linux
- ├── Operating Systems
- ├── Networking
- ├── x86-64
- └── Kernel Development
-
-Cloud & DevOps
- ├── AWS
- ├── Docker / Podman
- ├── Terraform
- ├── CI/CD
- └── Infrastructure
-
-Exploration
- ├── Blockchain
- ├── Quantitative Finance
- └── Open Source
-```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-# 🐍 Contribution Graph
+<h2>🏆 Achievements & Activities</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+| 🏆    | Achievement                         |
+| ----- | ----------------------------------- |
+| 🥇    | **First Prize — Innovators Day**    |
+| 🚀    | **SIH 2024 Team Lead**              |
+| 🔬    | **AI in Linux Kernel Research**     |
+| ⚡     | **NUMA-PRED Research Project**      |
+| 🎤    | **E-Cube Paper Presentation Lead**  |
+| 📑    | **ICCET Journal Team**              |
+| 👨‍💻 | **Placement Coordinator**           |
+| 🌐    | **Developer Community Contributor** |
+| 📚    | **NPTEL — 76%**                     |
+
 </div>
 
 ---
 
-# 🌐 Let's Connect
+<!-- ======================= CURRENTLY BUILDING ======================= -->
 
-<p align="center">
-
-  <a href="mailto:karthikeyan060311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Batman0603">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/dany_koker_11kr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-</p>
-
----
+<h2>🚧 Currently Building & Exploring</h2>
 
 <div align="center">
 
-### ⚡ Build. Break. Understand. Rebuild. ⚡
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=700&color=7C4DFF&center=true&vCenter=true&width=750&height=45&lines=Building+AegisOS;Building+NetSonic;Learning+System+Design;Exploring+Linux+Internals;Building+AI+%2B+RAG+Systems;Exploring+Cloud+%26+DevOps" />
 
-**"Code is only the beginning. Understanding the system is the real challenge."**
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+```text
+┌──────────────────────────────────────────────────────┐
+│                  CURRENT FOCUS                       │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  🐧 Linux & Operating Systems                       │
+│  🧠 AI / ML / RAG                                   │
+│  🌐 Networking & Distributed Systems                │
+│  ☕ Java & Software Engineering                     │
+│  ☁️ AWS / Docker / Terraform                        │
+│  🏗️ System Design & Architecture                    │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ======================= ACTIVITY ======================= -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- ======================= SNAKE ======================= -->
+
+<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+<!-- ======================= TERMINAL FOOTER ======================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+
+<br>
+
+```text
+$ echo "Code. Build. Break. Understand. Repeat."
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Feel+free+to+explore+my+projects+%F0%9F%9A%80;Let's+build+something+interesting+%F0%9F%94%A5" />
+
+<br><br>
+
+<a href="mailto:karthikeyan060311@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Batman0603">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Batman0603&label=PROFILE%20VIEWS&color=00F7FF&style=flat-square"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
