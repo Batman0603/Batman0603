@@ -1,200 +1,126 @@
-<!-- ======================= HERO ======================= -->
+<h1 align="center">Hi 👋, I'm Karthi Keyan</h1>
+
 <div align="center">
-
-<pre>
-██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗██╗██╗  ██╗███████╗██╗   ██╗ █████╗ ███╗   ██╗
-██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║██║ ██╔╝██╔════╝╚██╗ ██╔╝██╔══██╗████╗  ██║
-█████╔╝ ███████║██████╔╝   ██║   ███████║██║█████╔╝ █████╗   ╚████╔╝ ███████║██╔██╗ ██║
-██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║██╔═██╗ ██╔══╝    ╚██╔╝  ██╔══██║██║╚██╗██║
-██║  ██╗██║  ██║██║  ██║   ██║   ██║  ██║██║██║  ██╗███████╗   ██║   ██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
-</pre>
-
-  <h3>AI &amp; Data Science Student · Full-Stack Developer · Cloud &amp; Linux Enthusiast</h3>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Building+web+apps+%26+REST+APIs;Research+on+AI+in+the+Linux+kernel;Docker+%7C+AWS+%7C+Terraform;Patent+filed.+Paper+published.+Still+learning." alt="Animated introduction" />
-
-  <p>
-    <a href="https://www.linkedin.com/in/karthikeyan2027"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/Batman0603"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:karthikeyan060311@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=Batman0603&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+Blockchain+Explorer;Always+building+cool+stuff..." alt="Typing SVG" />
 </div>
 
 ---
 
-## ◈ WHO AM I
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="56%" valign="top">
+- 🎓 AI & DS undergrad passionate about building smart solutions with clean code.  
+- 🤖 Love working on ML projects from NLP to lie detection models.  
+- 🌐 Building sleek full-stack web apps with React, Django, FastAPI , Flask & more.  
+- 🔗 Exploring blockchain for verification & smart contracts.  
+- ⚡ Hackathons fuel my creativity — rapid prototyping & MVPs are my jam.  
+- 🔍 Currently diving into RAG pipelines, system design, and quant financial models.
 
-```python
-karthikeyan = {
-    "name":      "Karthikeyan K R",
-    "degree":    "B.Tech AI & Data Science (2023 - Present)",
-    "college":   "Meenakshi Sundararajan Engineering College",
-    "location":  "Chennai, India",
+---
 
-    "focus": [
-        "Full-Stack Development",
-        "Linux & Operating Systems",
-        "Cloud (AWS) & DevOps",
-        "AI in Systems Research",
-        "Web Security",
-    ],
+🛠 Tech Stack
 
-    "languages": ["C", "Python", "Java", "PL/SQL"],
+💻 Programming Languages
+<p align="center"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 
-    "internships": [
-        "Presidio - Full Stack Intern",
-        "Patterns Cognitive - Web Developer Intern",
-    ],
+🌐 Frontend & Mobile
+<p align="center"> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /> </p>
 
-    "speaks":    ["Tamil", "English"],
-    "motto":     "Build to learn. Learn to build.",
-}
-```
+🧠 Backend & APIs
+<p align="center"> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> </p>
 
-</td>
-<td width="44%" valign="top">
+💾 Databases & BaaS
+<p align="center"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> </p>
+
+☁️ Cloud, DevOps & Infrastructure
+<p align="center"> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </p>
+
+🖥 Systems & Tools
+<p align="center"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
+
+---
+
+## 🔥 Projects Highlights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batman0603&theme=tokyonight" width="100%" alt="GitHub stats" />
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ TECH STACK
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css&theme=dark" alt="C, Python, Java, HTML, CSS" />
-
-**Frameworks &amp; Libraries**
-
-<img src="https://skillicons.dev/icons?i=spring,django,react,nodejs,flask,fastapi&theme=dark" alt="Spring Boot, Django, React, Node.js, Flask, FastAPI" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-
-**Cloud, DevOps &amp; OS**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,fedora,git,github&theme=dark" alt="AWS, Docker, Terraform, Linux, Fedora, Git, GitHub" />
-
-<sub>Also: Podman · Oracle VirtualBox · Bruno · Canva</sub>
-
-</div>
-
----
-
-## ◈ EXPERIENCE
-
-| Role | Company | Period | What I did |
-|---|---|---|---|
-| **Full Stack Intern** | Presidio | Sept 2025 – Nov 2025 | Developed an Event Management System for colleges |
-| **Web Developer Intern** | Patterns Cognitive | Jan 2025 – Feb 2025 | Worked on the "File Handle" project |
-
----
-
-## ◈ FEATURED PROJECTS 🚀
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎟️ EventEase
-
-College event management platform with JWT role-based authentication, event registration, and admin approval workflows.
-
-`React` `Flask` `MySQL` `JWT`
-
-</td>
-<td width="33%" valign="top">
-
-### 🛡️ Web Vulnerability Scanner
-
-Dockerized, microservices-based scanner that automates crawling, attack surface mapping, XSS/SQLi detection, and report generation.
-
-`Docker` `Microservices` `Security`
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Friendly AI Chatbot
-
-Conversational chatbot with a responsive web UI and real-time API integration using LLaMA through the Together AI API.
-
-`Flask` `LLaMA` `Together AI`
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ ACHIEVEMENTS &amp; CERTIFICATIONS
-
-- 📄 **Published** a paper at an International Conference on **AI in NUMA-based Linux Kernels**
-- 🧾 **Filed a patent** for a self-hosted financial intelligent framework
-- 🥇 **1st place**, Paper Presentation at Innovators Fest, my college
-- 🔐 Cisco: **Introduction to Cybersecurity**
-- 🎓 NPTEL: **Python for Data Science** · **Blockchain and its Applications**
-- 🐍 Course completion: **Python Django**
-
----
-
-## ◈ GITHUB STATS DEEP DIVE 📊
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=tokyonight" width="98%" alt="GitHub profile details" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman0603&theme=tokyonight" height="175" alt="Top languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman0603&theme=tokyonight" height="175" alt="Top languages by commit" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Batman0603&theme=tokyonight&utcOffset=5.5" width="98%" alt="Productive time of day" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" height="100" /><br/>
+        <b>🌟 ExploreEase</b><br/>
+        <sub>suggests nearby shows, movies, restaurants, local gems (like a Zomato district app)</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" /><br/>
+        <b>🕵️ Lie Detector Model</b><br/>
+        <sub>Using BERT embeddings and NLP to detect deception in text with advanced ML algorithms</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" height="100" /><br/>
+        <b>📁 File Handle</b><br/>
+        <sub>Django & React app to upload, categorize & manage files securely</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" height="100" /><br/>
+        <b>🤖 Friendly Chatbot</b><br/>
+        <sub>Bolt AI + Flask with Llama API smarts</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="100" /><br/>
+        <b>💼 More Projects</b><br/>
+        <sub>Check out my GitHub for more exciting projects!</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="100" height="100" /><br/>
+        <b>🚀 Coming Soon</b><br/>
+        <sub>New innovations in AI & ML are on the way!</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## ◈ CONTRIBUTION GRAPH
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ffffff&area=true&area_color=4c1d95&hide_border=true" width="98%" alt="Contribution activity graph" />
-</div>
-
----
-
-## ◈ CONTRIBUTION SNAKE 🐍
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="98%" alt="Contribution snake (dark)" />
-  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="98%" alt="Contribution snake (light)" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Batman0603&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 <div align="center">
-
-```text
-┌─ KARTHIKEYAN'S RULE ───────────────────┐
-
-     Ship. Learn. Improve. Repeat.
-
-└────────────────────────────────────────┘
-```
-
-⭐ If something here helped you, drop a star on a repo!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Thanks+for+visiting!;Explore.+Experiment.+Build." alt="Animated sign-off" />
-
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:karthikeyan060311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Batman0603">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/dany_koker_11kr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">⚡ <i>"Code. Solve. Learn. Repeat."</i> ⚡</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Batman0603&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
