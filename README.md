@@ -1,105 +1,122 @@
-<!-- ===================== NEON HERO ===================== -->
-
+<!-- ======================= HERO ======================= -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,30:111827,65:312e81,100:00e5ff&text=Karthi%20Keyan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%2B%20SYSTEMS%20%2B%20FULL-STACK&descAlignY=60&descSize=16&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=760&height=45&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Linux+%26+Systems+Enthusiast;Building+Operating+Systems+%26+Network+Tools;Code.+Build.+Understand.+Repeat." alt="Animated introduction" />
-
-<a href="https://github.com/Batman0603"><img src="https://img.shields.io/badge/GitHub-Batman0603-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
-<a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:karthikeyan060311@gmail.com"><img src="https://img.shields.io/badge/Contact-Available-00C853?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Batman0603&style=flat-square&color=00f5ff&label=PROFILE+SIGNALS" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080b12,45:151b2b,75:073b4c,100:00d9ff&text=KARTHI%20KEYAN&fontColor=edfaff&fontSize=48&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20FULL-STACK%20%7C%20LINUX%20%7C%20CLOUD&descAlignY=60&descSize=13&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=780&height=42&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Linux+%26+Systems+Enthusiast;Exploring+AI%2C+Networking+%26+Cloud;Build+to+learn.+Learn+to+build." alt="Animated introduction" />
+  <p>
+    <a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/Batman0603"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:karthikeyan060311@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=Batman0603&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ---
 
-### `~/about`
+## ◈ WHO AM I
 
-```bash
-$ whoami
-AI & Data Science undergraduate | Full-stack developer
-Linux enthusiast | Research-minded builder
+<table>
+<tr>
+<td width="53%" valign="top">
 
-$ interests --now
-Operating Systems • Networking • AI/ML • RAG
-Java & system design • Cloud & DevOps
+```javascript
+const karthi = {
+  role: "AI & Data Science Student",
+  focus: [
+    "Full-Stack Engineering",
+    "Linux & Operating Systems",
+    "AI / ML and RAG",
+    "Networking & Cloud",
+    "System Design"
+  ],
+  languages: ["Java", "Python", "C", "JavaScript", "SQL"],
+  currentlyBuilding: [
+    "AegisOS — x86-64 hobby OS",
+    "NetSonic — network discovery"
+  ],
+  motto: "Ship. Learn. Improve. Repeat."
+};
 ```
 
-I like exploring technology from the application layer down to the system underneath it. I build web apps, experiment with AI, and explore Linux internals, networking, and infrastructure.
+</td>
+<td width="47%" valign="top">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&custom_title=Karthi's%20GitHub%20Stats" width="100%" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=Batman0603&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="GitHub streak" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚙️ Tech constellation
+## ◈ TECH STACK — VISUAL ICONS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,react,django,fastapi,flask,mysql,aws,docker,terraform,linux,git,github,vscode&perline=8" />
+**Languages**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" alt="Java, Python, C, JavaScript, HTML and CSS" />
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/Linux%20%2F%20Kernel-Building-f59e0b?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud%20%2F%20DevOps-Learning-06b6d4?style=flat-square" />
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,django,fastapi,flask,nodejs&theme=dark" alt="React, Django, FastAPI, Flask and Node.js" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="MySQL, SQLite and MongoDB" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,bash,git,github&theme=dark" alt="AWS, Docker, Terraform, Linux, Bash, Git and GitHub" />
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,idea&theme=dark" alt="VS Code, Postman, Figma and IntelliJ IDEA" />
 
 </div>
 
 ---
 
-### 🚀 Featured builds
+## ◈ FEATURED BUILDS 🚀
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ [AegisOS](https://github.com/kumaraguru911/aegisos)
+### 🛡️ [AegisOS](https://github.com/kumaraguru911/aegisos)
 
-**An x86-64 hobby operating system**
-
-Exploring functionally separated kernel domains and direct Inter-Kernel Communication (IKC).
+An x86-64 hobby operating system exploring functionally separated kernel domains and direct Inter-Kernel Communication (IKC).
 
 `C` `x86-64 Assembly` `QEMU` `GDB`
-
-<img src="https://img.shields.io/badge/STATUS-In%20Development-f59e0b?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌐 NetSonic
+### 🌐 NetSonic
 
-**See the network. Hear the network.**
-
-Local network discovery, device topology, and a vision for turning network activity into sound.
+**See the network. Hear the network.** A local-network discovery and topology project with a vision for sonifying network activity.
 
 `FastAPI` `React` `TypeScript` `Cytoscape`
-
-<img src="https://img.shields.io/badge/STATUS-In%20Development-06b6d4?style=flat-square" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 NUMA-PRED
+### 🧠 NUMA-PRED
 
-**ML-assisted proactive memory placement**
-
-Research into lightweight ML approaches for memory placement in Linux NUMA systems.
+Research on lightweight ML-assisted proactive memory placement for Linux NUMA systems.
 
 `Linux Kernel` `NUMA` `Machine Learning`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎟️ EventEase
+### 🎟️ EventEase
 
-**Full-stack event management**
-
-Role-based access, JWT authentication, event management, registrations, feedback, and admin dashboards.
+Full-stack event management with authentication, role-based access, event registrations, feedback, and admin tools.
 
 `React` `Flask` `MySQL` `JWT`
 
@@ -109,78 +126,41 @@ Role-based access, JWT authentication, event management, registrations, feedback
 
 ---
 
-### 🔬 Experience & milestones
+## ◈ RESEARCH & COMMUNITY
 
-- **Presidio** — Full Stack Intern; worked with React, Flask, MySQL, authentication and role-based access.
-- **Patterns Cognitive** — Web Developer Intern; built a React + Django file-management application.
-- 🥇 **First Prize — Innovators Day**, for work on AI in the Linux kernel.
-- 🚀 **SIH 2024** — Team Lead for a farmer-focused application.
-- 📄 Research and presentations: **NUMA-PRED**, AI in the Linux kernel, E-Cube and ICCET.
-- 🤝 Placement Coordinator and developer-community contributor.
-- 📚 **NPTEL: 76%**
+- 🥇 **First Prize — Innovators Day:** work on AI in the Linux kernel.
+- 🚀 **Smart India Hackathon 2024:** team lead for a farmer-focused application.
+- 📄 Research and paper presentations around **AI in the Linux kernel** and **NUMA-PRED**.
+- 🤝 Placement coordinator and developer-community contributor.
+- 📚 **NPTEL:** 76%.
 
 ---
 
-### 📡 Current signal
+## ◈ GITHUB STATS — DEEP DIVE 📊
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=35&lines=Building+AegisOS;Developing+NetSonic;Exploring+Linux+Internals;Practising+Java+%26+System+Design;Connecting+AI+with+Systems" alt="Current focus animation" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&area_color=073b4c&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="GitHub contribution activity graph" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=donut&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&langs_count=8" height="190" alt="Most used repository languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=github_dark" width="98%" alt="GitHub profile summary" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman0603&theme=github_dark" height="165" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman0603&theme=github_dark" height="165" alt="Commit languages" />
 </div>
 
 ---
 
-### 📈 GitHub telemetry
+## ◈ CONTRIBUTION SNAKE 🐍
 
 <div align="center">
-
-<!-- Core stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Karthi's%20GitHub%20Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Language%20Mix" />
-
-<br><br>
-
-<!-- Streak -->
-<img width="80%" src="https://streak-stats.demolab.com?user=Batman0603&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak statistics" />
-
-<br><br>
-
-<!-- Activity graph -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Pulse" alt="GitHub contribution activity graph" />
-
-<br><br>
-
-<!-- Metrics cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=tokyonight" width="96%" alt="Profile contribution summary" />
-
-<br>
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman0603&theme=tokyonight" alt="Repositories by language" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman0603&theme=tokyonight" alt="Most used commit languages" />
-
-<br>
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batman0603&theme=tokyonight" alt="Contribution statistics summary" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Batman0603&theme=tokyonight&utcOffset=5.5" alt="Productive time summary" />
-
+  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="98%" alt="Contribution snake in dark mode" />
+  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="98%" alt="Contribution snake in light mode" />
 </div>
 
----
+> If the snake is not visible, add the workflow below to `.github/workflows/snake.yml` in your profile repository and run it once from **Actions**.
 
-### 🐍 Contribution snake
-
-<div align="center">
-
-<!-- This image requires the GitHub Actions workflow described below. -->
-<img width="96%" src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Animated GitHub contribution snake in dark mode" />
-<img width="96%" src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Animated GitHub contribution snake in light mode" />
-
-</div>
-
-> **One-time setup:** The snake images won't appear until you add the workflow below to your profile repository (`Batman0603/Batman0603`) and enable GitHub Actions.
-
-Create `.github/workflows/snake.yml` with this content:
+<details>
+<summary>Show contribution snake workflow</summary>
 
 ```yaml
 name: Generate contribution snake
@@ -190,8 +170,7 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 permissions:
   contents: write
@@ -199,17 +178,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Batman0603
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
@@ -217,16 +193,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After committing the workflow, open **GitHub → your profile repository → Actions → Generate contribution snake → Run workflow**. Once it succeeds, the snake images should become available. The scheduled workflow refreshes them twice daily.
+</details>
 
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&height=35&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Explore.+Experiment.+Build.;The+best+way+to+learn+is+to+build." alt="Animated sign-off" />
-
-<a href="https://github.com/Batman0603?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20repositories-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00e5ff,50:312e81,100:050816" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&height=35&lines=Thanks+for+visiting!;Explore.+Experiment.+Build.;Let's+create+something+meaningful." alt="Animated sign-off" />
+  <br />
+  <a href="https://github.com/Batman0603?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161b22?style=for-the-badge&logo=github&logoColor=00d9ff" /></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00d9ff,50:073b4c,100:080b12" />
 </div>
