@@ -1,6 +1,7 @@
 <!-- ======================= HERO ======================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080b12,45:151b2b,75:073b4c,100:00d9ff&text=KARTHI%20KEYAN&fontColor=edfaff&fontSize=48&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20FULL-STACK%20%7C%20LINUX%20%7C%20CLOUD&descAlignY=60&descSize=13&animation=fadeIn" />
+  <h1>⚡ KARTHI KEYAN</h1>
+  <p><strong>AI &amp; DATA SCIENCE · FULL-STACK · LINUX · CLOUD</strong></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=780&height=42&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Linux+%26+Systems+Enthusiast;Exploring+AI%2C+Networking+%26+Cloud;Build+to+learn.+Learn+to+build." alt="Animated introduction" />
   <p>
     <a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -41,8 +42,7 @@ const karthi = {
 <td width="47%" valign="top">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&custom_title=Karthi's%20GitHub%20Stats" width="100%" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com?user=Batman0603&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batman0603&theme=github_dark" width="100%" alt="GitHub profile statistics" />
 </div>
 
 </td>
@@ -145,7 +145,6 @@ Full-stack event management with authentication, role-based access, event regist
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=github_dark" width="98%" alt="GitHub profile summary" />
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman0603&theme=github_dark" height="165" alt="Repositories by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman0603&theme=github_dark" height="165" alt="Commit languages" />
 </div>
 
 ---
@@ -201,5 +200,6 @@ jobs:
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&height=35&lines=Thanks+for+visiting!;Explore.+Experiment.+Build.;Let's+create+something+meaningful." alt="Animated sign-off" />
   <br />
   <a href="https://github.com/Batman0603?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161b22?style=for-the-badge&logo=github&logoColor=00d9ff" /></a>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00d9ff,50:073b4c,100:080b12" />
+  <hr />
+  <sub>Build to learn. Learn to build.</sub>
 </div>
