@@ -1,14 +1,26 @@
 <!-- ======================= HERO ======================= -->
 <div align="center">
-  <h1>⚡ KARTHIKEYAN</h1>
-  <p><strong>AI &amp; DATA SCIENCE · FULL-STACK · LINUX · CLOUD</strong></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=780&height=42&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Linux+%26+Systems+Enthusiast;Exploring+AI%2C+Networking+%26+Cloud;Build+to+learn.+Learn+to+build." alt="Animated introduction" />
+
+<pre>
+██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗██╗██╗  ██╗███████╗██╗   ██╗ █████╗ ███╗   ██╗
+██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║██║ ██╔╝██╔════╝╚██╗ ██╔╝██╔══██╗████╗  ██║
+█████╔╝ ███████║██████╔╝   ██║   ███████║██║█████╔╝ █████╗   ╚████╔╝ ███████║██╔██╗ ██║
+██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║██╔═██╗ ██╔══╝    ╚██╔╝  ██╔══██║██║╚██╗██║
+██║  ██╗██║  ██║██║  ██║   ██║   ██║  ██║██║██║  ██╗███████╗   ██║   ██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+</pre>
+
+  <h3>AI &amp; Data Science Student · Full-Stack Developer · Cloud &amp; Linux Enthusiast</h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Building+web+apps+%26+REST+APIs;Research+on+AI+in+the+Linux+kernel;Docker+%7C+AWS+%7C+Terraform;Patent+filed.+Paper+published.+Still+learning." alt="Animated introduction" />
+
   <p>
-    <a href="https://linkedin.com/in/karthikeyan-k-r-494a0a2a1"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/karthikeyan2027"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/Batman0603"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="mailto:karthikeyan060311@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
-  <img src="https://komarev.com/ghpvc/?username=Batman0603&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <img src="https://komarev.com/ghpvc/?username=Batman0603&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ---
@@ -17,32 +29,40 @@
 
 <table>
 <tr>
-<td width="53%" valign="top">
+<td width="56%" valign="top">
 
-```javascript
-const karthi = {
-  role: "AI & Data Science Student",
-  focus: [
-    "Full-Stack Engineering",
-    "Linux & Operating Systems",
-    "AI / ML and RAG",
-    "Networking & Cloud",
-    "System Design"
-  ],
-  languages: ["Java", "Python", "C", "JavaScript", "SQL"],
-  currentlyBuilding: [
-    "AegisOS — x86-64 hobby OS",
-    "NetSonic — network discovery"
-  ],
-  motto: "Ship. Learn. Improve. Repeat."
-};
+```python
+karthikeyan = {
+    "name":      "Karthikeyan K R",
+    "degree":    "B.Tech AI & Data Science (2023 - Present)",
+    "college":   "Meenakshi Sundararajan Engineering College",
+    "location":  "Chennai, India",
+
+    "focus": [
+        "Full-Stack Development",
+        "Linux & Operating Systems",
+        "Cloud (AWS) & DevOps",
+        "AI in Systems Research",
+        "Web Security",
+    ],
+
+    "languages": ["C", "Python", "Java", "PL/SQL"],
+
+    "internships": [
+        "Presidio - Full Stack Intern",
+        "Patterns Cognitive - Web Developer Intern",
+    ],
+
+    "speaks":    ["Tamil", "English"],
+    "motto":     "Build to learn. Learn to build.",
+}
 ```
 
 </td>
-<td width="47%" valign="top">
+<td width="44%" valign="top">
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batman0603&theme=github_dark" width="100%" alt="GitHub profile statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batman0603&theme=tokyonight" width="100%" alt="GitHub stats" />
 </div>
 
 </td>
@@ -57,68 +77,64 @@ const karthi = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" alt="Java, Python, C, JavaScript, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css&theme=dark" alt="C, Python, Java, HTML, CSS" />
 
-**Frameworks & Libraries**
+**Frameworks &amp; Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,django,fastapi,flask,nodejs&theme=dark" alt="React, Django, FastAPI, Flask and Node.js" />
+<img src="https://skillicons.dev/icons?i=spring,django,react,nodejs,flask,fastapi&theme=dark" alt="Spring Boot, Django, React, Node.js, Flask, FastAPI" />
 
-**Databases**
+**Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="MySQL, SQLite and MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
 
-**Cloud & DevOps**
+**Cloud, DevOps &amp; OS**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,bash,git,github&theme=dark" alt="AWS, Docker, Terraform, Linux, Bash, Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,fedora,git,github&theme=dark" alt="AWS, Docker, Terraform, Linux, Fedora, Git, GitHub" />
 
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,idea&theme=dark" alt="VS Code, Postman, Figma and IntelliJ IDEA" />
+<sub>Also: Podman · Oracle VirtualBox · Bruno · Canva</sub>
 
 </div>
 
 ---
 
-## ◈ FEATURED BUILDS 🚀
+## ◈ EXPERIENCE
+
+| Role | Company | Period | What I did |
+|---|---|---|---|
+| **Full Stack Intern** | Presidio | Sept 2025 – Nov 2025 | Developed an Event Management System for colleges |
+| **Web Developer Intern** | Patterns Cognitive | Jan 2025 – Feb 2025 | Worked on the "File Handle" project |
+
+---
+
+## ◈ FEATURED PROJECTS 🚀
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ [AegisOS](https://github.com/Batman0603/aegisos)
-
-An x86-64 hobby operating system exploring functionally separated kernel domains and direct Inter-Kernel Communication (IKC).
-
-`C` `x86-64 Assembly` `QEMU` `GDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 NetSonic
-
-**See the network. Hear the network.** A local-network discovery and topology project with a vision for sonifying network activity.
-
-`FastAPI` `React` `TypeScript` `Cytoscape`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 NUMA-PRED
-
-Research on lightweight ML-assisted proactive memory placement for Linux NUMA systems.
-
-`Linux Kernel` `NUMA` `Machine Learning`
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🎟️ EventEase
 
-Full-stack event management with authentication, role-based access, event registrations, feedback, and admin tools.
+College event management platform with JWT role-based authentication, event registration, and admin approval workflows.
 
 `React` `Flask` `MySQL` `JWT`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Web Vulnerability Scanner
+
+Dockerized, microservices-based scanner that automates crawling, attack surface mapping, XSS/SQLi detection, and report generation.
+
+`Docker` `Microservices` `Security`
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Friendly AI Chatbot
+
+Conversational chatbot with a responsive web UI and real-time API integration using LLaMA through the Together AI API.
+
+`Flask` `LLaMA` `Together AI`
 
 </td>
 </tr>
@@ -126,25 +142,34 @@ Full-stack event management with authentication, role-based access, event regist
 
 ---
 
-## ◈ RESEARCH & COMMUNITY
+## ◈ ACHIEVEMENTS &amp; CERTIFICATIONS
 
-- 🥇 **First Prize — Innovators Day:** work on AI in the Linux kernel.
-- 🚀 **Smart India Hackathon 2024:** team lead for a farmer-focused application.
-- 📄 Research and paper presentations on **AI in the Linux kernel** and **NUMA-PRED**.
-- 🤝 Placement coordinator and developer-community contributor.
-- 📚 **NPTEL:** 76%.
+- 📄 **Published** a paper at an International Conference on **AI in NUMA-based Linux Kernels**
+- 🧾 **Filed a patent** for a self-hosted financial intelligent framework
+- 🥇 **1st place**, Paper Presentation at Innovators Fest, my college
+- 🔐 Cisco: **Introduction to Cybersecurity**
+- 🎓 NPTEL: **Python for Data Science** · **Blockchain and its Applications**
+- 🐍 Course completion: **Python Django**
 
 ---
 
-## ◈ GITHUB STATS 📊
+## ◈ GITHUB STATS DEEP DIVE 📊
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&area_color=073b4c&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="GitHub contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=tokyonight" width="98%" alt="GitHub profile details" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman0603&theme=github_dark" height="165" alt="Most used languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman0603&theme=github_dark" height="165" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman0603&theme=tokyonight" height="175" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman0603&theme=tokyonight" height="175" alt="Top languages by commit" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=github_dark" width="98%" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Batman0603&theme=tokyonight&utcOffset=5.5" width="98%" alt="Productive time of day" />
+</div>
+
+---
+
+## ◈ CONTRIBUTION GRAPH
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ffffff&area=true&area_color=4c1d95&hide_border=true" width="98%" alt="Contribution activity graph" />
 </div>
 
 ---
@@ -152,16 +177,24 @@ Full-stack event management with authentication, role-based access, event regist
 ## ◈ CONTRIBUTION SNAKE 🐍
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="98%" alt="Contribution snake in dark mode" />
-  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="98%" alt="Contribution snake in light mode" />
+  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="98%" alt="Contribution snake (dark)" />
+  <img src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="98%" alt="Contribution snake (light)" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&height=35&lines=Thanks+for+visiting!;Explore.+Experiment.+Build.;Let's+create+something+meaningful." alt="Animated sign-off" />
-  <br />
-  <a href="https://github.com/Batman0603?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161b22?style=for-the-badge&logo=github&logoColor=00d9ff" alt="Explore my repositories" /></a>
-  <hr />
-  <sub>Build to learn. Learn to build.</sub>
+
+```text
+┌─ KARTHIKEYAN'S RULE ───────────────────┐
+
+     Ship. Learn. Improve. Repeat.
+
+└────────────────────────────────────────┘
+```
+
+⭐ If something here helped you, drop a star on a repo!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Thanks+for+visiting!;Explore.+Experiment.+Build." alt="Animated sign-off" />
+
 </div>
