@@ -135,14 +135,89 @@ Role-based access, JWT authentication, event management, registrations, feedback
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<!-- Core stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Batman0603&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Karthi's%20GitHub%20Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batman0603&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Language%20Mix" />
+
+<br><br>
+
+<!-- Streak -->
+<img width="80%" src="https://streak-stats.demolab.com?user=Batman0603&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak statistics" />
+
+<br><br>
+
+<!-- Activity graph -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Pulse" alt="GitHub contribution activity graph" />
+
+<br><br>
+
+<!-- Metrics cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batman0603&theme=tokyonight" width="96%" alt="Profile contribution summary" />
 
 <br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Batman0603&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Pulse" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman0603&theme=tokyonight" alt="Repositories by language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman0603&theme=tokyonight" alt="Most used commit languages" />
+
+<br>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batman0603&theme=tokyonight" alt="Contribution statistics summary" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Batman0603&theme=tokyonight&utcOffset=5.5" alt="Productive time summary" />
 
 </div>
+
+---
+
+### 🐍 Contribution snake
+
+<div align="center">
+
+<!-- This image requires the GitHub Actions workflow described below. -->
+<img width="96%" src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Animated GitHub contribution snake in dark mode" />
+<img width="96%" src="https://raw.githubusercontent.com/Batman0603/Batman0603/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Animated GitHub contribution snake in light mode" />
+
+</div>
+
+> **One-time setup:** The snake images won't appear until you add the workflow below to your profile repository (`Batman0603/Batman0603`) and enable GitHub Actions.
+
+Create `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Batman0603
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After committing the workflow, open **GitHub → your profile repository → Actions → Generate contribution snake → Run workflow**. Once it succeeds, the snake images should become available. The scheduled workflow refreshes them twice daily.
 
 ---
 
